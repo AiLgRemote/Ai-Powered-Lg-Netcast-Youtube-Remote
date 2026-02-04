@@ -28,7 +28,7 @@ Demonstrate AI-assisted development in practice, not just theory
 
 Control your TV using natural Romanian language
 
-Voice commands are interpreted using Groq AI
+Voice commands are interpreted using Gemini AI
 
 Examples:
 
@@ -198,4 +198,9 @@ Automatic device profiles
 ![Search](screenshots/search.png)
 ![Voice Control](screenshots/voice-control.png)
 ![Youtube](screenshots/youtube.png)
+
+🎥 Check out the demo video on YouTube
+
+YouTube video: https://youtu.be/zZrhjvJqjCs
+
 
