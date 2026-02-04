@@ -191,7 +191,10 @@ Android TV companion mode
 Automatic device profiles
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
-![Home Screen](screenshots/Screenshot_2026-02-04-13-23-01-490_com.tatilacratita.lgcast.sampler.jpg)
-
+![Home Screen](screenshots/home.png)
+![Play Video](screenshots/play.png)
+![Play List Video](screenshots/playlist.png)
+![Search](screenshots/search.png)
+![Voice Control](voice-control/search.png)
+![Youtube](youtube/search.png)
