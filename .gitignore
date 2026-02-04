@@ -1,1 +1,18 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Misc
+.DS_Store
+*.log
 
