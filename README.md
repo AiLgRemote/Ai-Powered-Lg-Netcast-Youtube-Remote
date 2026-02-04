@@ -88,7 +88,7 @@ Kotlin	Main Android programming language
 Kotlin Coroutines	Asynchronous operations (network, UI, streaming)
 DLNA / UPnP	Media streaming to TVs
 LG Netcast Protocol	Legacy LG TV remote control & pairing
-Groq AI API	Voice command interpretation (Romanian language)
+Gemini AI API	Voice command interpretation (Romanian language)
 NewPipe Extractor	YouTube stream extraction
 OkHttp	HTTP networking
 ConnectSDK	Device discovery & TV connectivity
@@ -130,7 +130,7 @@ Command routing
 
 Media playback flow
 
-3️⃣ GroqAIHelper
+3️⃣ GeminiAIHelper
 
 Sends transcribed voice commands to Groq AI
 
