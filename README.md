@@ -1,6 +1,6 @@
 🤖 AI-Powered LG TV Remote (2012 Netcast)
 
-“I built a full AI-powered assistant for a 13-year-old TV using only AI-generated code.”
+“I built a full AI-powered assistant for a 14-year-old TV using only AI-generated code.”
 
 This project is an Android application that turns a smartphone into a powerful, multifunctional remote control for legacy LG Netcast TVs (2012–2014) and other DLNA-compatible devices.
 
