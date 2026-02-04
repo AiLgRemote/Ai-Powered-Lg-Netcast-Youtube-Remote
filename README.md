@@ -189,3 +189,9 @@ Local AI (offline commands)
 Android TV companion mode
 
 Automatic device profiles
+
+## 📸 Screenshots
+## 📸 Screenshots
+
+![Home Screen](screenshots/Screenshot_2026-02-04-13-23-01-490_com.tatilacratita.lgcast.sampler.jpg)
+
