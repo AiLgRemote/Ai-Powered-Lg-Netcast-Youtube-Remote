@@ -132,7 +132,7 @@ Media playback flow
 
 3️⃣ GeminiAIHelper
 
-Sends transcribed voice commands to Groq AI
+Sends transcribed voice commands to Gemini AI
 
 Receives structured actions (play, pause, search, playlist creation)
 
