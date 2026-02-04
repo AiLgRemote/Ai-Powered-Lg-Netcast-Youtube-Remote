@@ -2,7 +2,7 @@
 
 “I built a full AI-powered assistant for a 14-year-old TV using only AI-generated code.”
 
-This project is an Android application that turns a smartphone into a powerful, multifunctional remote control for legacy LG Netcast TVs (2012–2014) and other DLNA-compatible devices.
+This project is an Android application that turns a smartphone into a powerful, multifunctional remote control for legacy LG Netcast TVs (2012–2014) and other DLNA-compatible devices (needs development).
 
 What makes this project special is how it was built:
 👉 This project was built entirely using free-tier AI models (ChatGPT, Claude, DeepSeek, and Gemini),by a developer with zero prior programming experience.  
