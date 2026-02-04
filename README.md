@@ -190,11 +190,12 @@ Android TV companion mode
 
 Automatic device profiles
 
-## 📸 Screenshots
+📸 Screenshots
 
 ![Home Screen](screenshots/home.png)
 ![Play Video](screenshots/play.png)
 ![Play List Video](screenshots/playlist.png)
 ![Search](screenshots/search.png)
-![Voice Control](voice-control/search.png)
-![Youtube](youtube/search.png)
+![Voice Control](screenshots/voice-control.png)
+![Youtube](screenshots/youtube.png)
+
