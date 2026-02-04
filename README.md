@@ -197,5 +197,5 @@ Automatic device profiles
 ![Play List Video](screenshots/playlist.png)
 ![Search](screenshots/search.png)
 ![Voice Control](screenshots/voice-control.png)
-![Youtube](screenshots/youtube.png)
+
 
